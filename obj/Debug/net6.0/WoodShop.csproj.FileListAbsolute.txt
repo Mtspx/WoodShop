@@ -1,0 +1,15 @@
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\bin\Debug\net6.0\WoodShop.exe
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\bin\Debug\net6.0\WoodShop.deps.json
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\bin\Debug\net6.0\WoodShop.runtimeconfig.json
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\bin\Debug\net6.0\WoodShop.dll
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\bin\Debug\net6.0\WoodShop.pdb
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.csproj.AssemblyReference.cache
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.AssemblyInfoInputs.cache
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.AssemblyInfo.cs
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.dll
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\refint\WoodShop.dll
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.pdb
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\WoodShop.genruntimeconfig.cache
+C:\Users\Mateus Araújo\Desktop\Projetos\WoodShop - PBL 1\WoodShop\obj\Debug\net6.0\ref\WoodShop.dll
